@@ -1,4 +1,8 @@
 # adjsaver
+Enter the directory of the version to run and the details are in the readme.
+
+## Motivation
+
 When tackling the issue of COVID-19 healthcare in underserved communities, we must first-and-foremost aim to provide tangible benefits. Quite simply, our goal is to have our target audience reach a successful conclusion--that the individuals of underserved regions reach the point of receiving testing, vaccination and/or treatment for COVID-19. To this end, the blatant hurdles are _cost_ and _distance_. 
 
 If **both** of these are not tackled, the affected individuals will not pursue further healthcare. IQVIA Healthcare Locator SDK does provide distance metrics with 'Near Me', but how can we best utilize or expand on this? And with a lack of readily available cost information further complexified with insurance effects and lack of standardized pricing, how do we deal with the white elephant of cost? 
